@@ -26,4 +26,4 @@ SBOM benchmark started with identifying and fixing issues with most commonly use
 
 ### Adding an SBOM Generator
 
-If you'd like to recommend including an SBOM generator, please create an issue with [New Tool template](https://github.com/interlynk-io/sbombenchmark.dev/issues/new?assignees=surendrapathak&labels=&template=sbom-tool-request.md&title=%5BNew+Tool%5D).
+If you'd like to recommend including an SBOM generator, please create an issue with [New Tool template](https://github.com/interlynk-io/sbombenchmark.dev/issues/new?assignees=surendrapathak&labels=&template=1_sbom-tool-request.md&title=%5BNew+Tool%5D).
